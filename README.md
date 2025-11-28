@@ -136,15 +136,5 @@ Escolha uma opção (1-4):
 - C# (.NET 8.0)
 - Console Application
 
-## 📄 Licença
-
-Este projeto foi desenvolvido como trabalho acadêmico.
-
-## 👨‍💻 Desenvolvido por
-
-Projeto desenvolvido conforme especificações do documento de requisitos.
-
----
-
 **Nota**: Os dados são armazenados em memória (arrays internos) e serão perdidos quando o programa for encerrado.
 
